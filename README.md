@@ -5,7 +5,7 @@ Blink is Free HTML coming soon page for business and products, create anticipati
 
 ### [⬇️ Download Now](https://links.uideck.com/blink-download)
 
-[![blink-demo](https://uideck.com/wp-content/uploads/2021/09/blink.jpg)](https://preview.uideck.com/items/blink/)
+[![blink-demo](https://uideck.com/wp-content/uploads/2021/09/blink.png)](https://preview.uideck.com/items/blink/)
 
 
 
