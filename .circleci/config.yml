@@ -1,0 +1,12 @@
+version: 2.1
+orbs:
+  aws-ecr: circleci/aws-ecr@8.1.2
+workflows:
+  build_and_push_image:
+    jobs:
+      - aws-ecr/build-and-push-image:
+          context: SIPRTCIO
+          create-repo: true
+          repo: "${CIRCLE_PROJECT_REPONAME}"
+          region: ${AWS_REGION}
+          tag: "${CIRCLE_BUILD_NUM}"
